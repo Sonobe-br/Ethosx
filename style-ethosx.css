@@ -103,7 +103,7 @@ body {
 
     position: relative;
     left: -137px; 
-    background: #706a6a;
+    background: #175676;
     border-radius: 8px;
     width: 312px;
     height: 75px;
@@ -114,7 +114,7 @@ body {
 
 #Rodape {
 
-    background: #D81159;
+    background: #c65b7c;
     border-radius: 8px;
     width: 643px;
     height: 100px;
@@ -141,8 +141,8 @@ h2, h3 {
 }
 
 #Sub-Top {
-
-    padding-top: 70px;
+    font-size: 18px;
+    padding-top: 45px;
     text-align: center;
 
 }
