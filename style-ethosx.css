@@ -1,0 +1,148 @@
+.logoCSS {
+    
+    margin-top: 10px;    
+    margin-left: 10px;
+
+}
+
+body {
+
+    width: 800px;
+
+}
+
+#Header {
+
+    background: #FFDE0A;
+    border-radius: 8px;
+    width: 640px;
+    height: 100px;
+    margin: 10px;
+
+} 
+
+#Neck {
+
+    background: #145250;
+    border-radius: 8px;
+    width: 640px;
+    height: 180px;
+    margin: 10px;
+    box-shadow: 10px 5px 5px black;
+
+}
+
+#minhaFoto {
+
+    position: relative;
+    top: -125px;    
+    margin-left: 18px;
+    
+}
+
+#Column1 {
+
+    background: #7ddf64;
+    border-radius: 8px;
+    width: 145px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    box-shadow: 10px 5px 5px black;
+
+}
+
+#Column2 {
+
+    background: orangered;
+    border-radius: 8px;
+    width: 145px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    box-shadow: 10px 5px 5px black;
+
+}
+
+#Column3 { /* heart */
+
+    background: #d10000;
+    border-radius: 8px;
+    width: 145px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    box-shadow: 10px 5px 5px black;
+
+}
+
+#Column4 {
+
+    background: #7ddf64;
+    border-radius: 8px;
+    width: 145px;
+    height: 100px;
+    margin: 10px;
+    float: left;
+    box-shadow: 10px 5px 5px black;
+
+}
+
+#Waist-left {
+
+    background: #39BFD0;
+    border-radius: 8px;
+    width: 312px;
+    height: 75px;
+    margin: 10px;
+    float: left;
+
+}
+
+#Waist-right {
+
+    position: relative;
+    left: -137px; 
+    background: #706a6a;
+    border-radius: 8px;
+    width: 312px;
+    height: 75px;
+    margin: 10px;
+    float: right;
+
+}
+
+#Rodape {
+
+    background: #D81159;
+    border-radius: 8px;
+    width: 643px;
+    height: 100px;
+    margin: 10px;
+    position: relative;
+    margin-top: 250px;
+    padding-top: 47px;
+
+}
+
+h2, h3 {
+
+    font-family: Courier;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#Top, #Waist-left, #Waist-right {
+    
+    padding-top: 15px;
+    text-align: center
+
+}
+
+#Sub-Top {
+
+    padding-top: 70px;
+    text-align: center;
+
+}
